@@ -12,7 +12,7 @@ Build your application by GoZoox packages.
 
 - Web
   - [`go-zoox/zoox`](https://github.com/go-zoox/zoox) ![GitHub Repo stars](https://img.shields.io/github/stars/go-zoox/zoox?style=flat-square) ⚡ Zoox is an lightweight and fast web framework. support route group, param route binding, middleware, compatible http.Handler interface.
-  - [`go-zoox/rest-api`](https://github.com/go-zoox/rest-api) ![GitHub Repo stars](https://img.shields.io/github/stars/go-rest-api/zoox?style=flat-square) REST API Client/Server.
+  - [`go-zoox/rest-api`](https://github.com/go-zoox/rest-api) ![GitHub Repo stars](https://img.shields.io/github/stars/go-zoox/rest-api?style=flat-square) REST API Client/Server.
 
 - RPC
   - [`go-zoox/jsonrpc`](https://github.com/go-zoox/jsonrpc) ![GitHub Repo stars](https://img.shields.io/github/stars/go-zoox/jsonrpc?style=flat-square) Simple JSON-RPC 2.0 Specification Client and Server.
